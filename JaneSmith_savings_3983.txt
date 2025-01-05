@@ -1,0 +1,6 @@
+Transaction History for account: JaneSmith_savings_3983.txt
+==========================================
+Initial Balance: $1000
+==========================================
+Deposited: $500 | New Balance: $1500
+Withdrew: $200 | New Balance: $1300

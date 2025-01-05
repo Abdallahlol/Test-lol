@@ -1,0 +1,6 @@
+Transaction History for account: JohnDoe_chequing_4429.txt
+==========================================
+Initial Balance: $500
+==========================================
+Deposited: $200 | New Balance: $700
+Withdrew: $100 | New Balance: $600
